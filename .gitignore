@@ -1,7 +1,8 @@
 # ide
 **.dsvenv
 **.vscode
-**.html
+# **.html
+**.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
